@@ -38,6 +38,7 @@
     <Compile Include="Authentication\Delegates.cs" />
     <Compile Include="Authentication\FormAuthentication.cs" />
     <Compile Include="Authentication\IAuthenticator.cs" />
+    <Compile Include="Logging\ConsoleLoggingHandler.cs" />
     <Compile Include="MastodonSession.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
